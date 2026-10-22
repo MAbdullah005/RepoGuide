@@ -8,7 +8,7 @@ RepoGuide is an AI-powered GitHub repository tutor that helps developers underst
 
 Give it a GitHub repository and ask questions about how the code works, how different files interact, or why certain implementation patterns are used. Answers are generated only from code actually retrieved from the repository — RepoGuide doesn't invent files, functions, or behavior, and every answer comes with clickable source links pointing at the exact file and line range it referenced.
 
-### Perfect for
+### Perfect fors
 
 * **Learning frameworks** — Explore real-world projects using FastAPI, LangChain, Next.js, and more
 * **Understanding architecture** — Learn how different parts of a codebase fit together
